@@ -1,2 +1,2 @@
-# DE_TranslationMoM
-Translation for Mind over Magic DE
+#TranslationMoM
+Translation for Mind over Magic
